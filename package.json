@@ -47,10 +47,10 @@
     "lodash.defaults": "^4.2.0",
     "lodash.template": "^4.4.0",
     "meow": "^3.7.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "pretty-bytes": "^4.0.2",
     "sw-toolbox": "^3.4.0",
-    "update-notifier": "^1.0.3"
+    "update-notifier": "^2.0.0"
   },
   "repository": "googlechrome/sw-precache",
   "bugs": "https://github.com/googlechrome/sw-precache/issues",
